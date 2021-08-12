@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Node.js starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekSharma811/Node_Farm.git"
+  },
+  "author": "Vivek Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekSharma811/Node_Farm/issues"
+  },
+  "homepage": "https://github.com/VivekSharma811/Node_Farm#readme"
+}
